@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "German language Course"
+    },
+    {
+        "id": "02",
+        "name": "French language Course"
+    },
+    {
+        "id": "03",
+        "name": "English language Course"
+    },
+    {
+        "id": "04",
+        "name": "Italien language Course"
+    },
+    {
+        "id": "05",
+        "name": "Arabic language Course"
+    },
+    {
+        "id": "06",
+        "name": "Korean language Course"
+    },
+    {
+        "id": "07",
+        "name": "All Course"
+    }
+]
